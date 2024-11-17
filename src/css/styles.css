@@ -2,11 +2,16 @@ html, body {
   background-color: #C19A6B;
   padding: 0;
   width: 100%;
-  box-sizing: border-box;
   overflow-x: hidden;
 }
 
 .header {
   font-family: monospace;
   color: white;
+}
+
+.logo {
+  display: flex;
+  justify-content: right;
+  height: auto;
 }/*# sourceMappingURL=styles.css.map */

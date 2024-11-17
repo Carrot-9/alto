@@ -20,3 +20,9 @@ html, body {
     font-family: monospace;
     color: #FFFFFFFF;
 }
+
+.logo {
+    display: flex;
+    justify-content: right;
+    height: auto;
+}
