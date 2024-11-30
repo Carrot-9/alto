@@ -1,7 +1,7 @@
 // Shamelessly copied from w3schools...
 let i = 0;
-const txt = 'futura'; /* The text */
-let speed = 50; /* The speed/duration of the effect in milliseconds */
+const txt = 'futura...'; 
+let speed = 50; 
 let header = document.getElementById("header_id");
 
 function type() {
